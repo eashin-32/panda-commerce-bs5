@@ -1,0 +1,23 @@
+.slider{
+    background-color: #FCEAE8;
+    border-radius: 5px;
+    
+}
+
+.contact{
+    height: 300px;
+    background-color: #FCEAE8;
+}
+.card-mod{
+    border: 0 !important;
+}
+.categories img {
+width: 100px;
+}
+.contact input{
+    width: 365px;
+}
+.contact .button{
+    margin-top: 5px;
+   
+}
